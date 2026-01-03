@@ -19,3 +19,7 @@ $ git remote add origin https://github.com/SohamGokhale952/github-devops.git<=to
 
 
 $ git push origin master<=to save the commits into the remote repo
+
+
+note=> git pull is used to pull the changes made
+$ git pull https://github.com/SohamGokhale952/github-devops.git
