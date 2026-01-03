@@ -1,21 +1,21 @@
-$ gti init
 
-$ git init
+$ git init<=this command used to initialise the git repo (local)
 
-$ git status
+$ git status<=to check status
 
-$ touch index.txt
-
-$ git status
-
-$ git add index.txt
+$ touch index.txt<=to create an empty file
 
 $ git status
 
-
-$ git commit -m "Added new file indx,txt"
+$ git add index.txt<=to save file or commit it into the local git
 
 $ git status
-$ git remote add origin https://github.com/SohamGokhale952/github-devops.git
 
-$ git push origin master
+
+$ git commit -m "Added new file indx,txt" <= used to commit actions
+
+$ git status
+$ git remote add origin https://github.com/SohamGokhale952/github-devops.git<=to add the file in to the remote repo(GitHub)
+
+
+$ git push origin master<=to save the commits into the remote repo
