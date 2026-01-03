@@ -1,0 +1,21 @@
+$ gti init
+
+$ git init
+
+$ git status
+
+$ touch index.txt
+
+$ git status
+
+$ git add index.txt
+
+$ git status
+
+
+$ git commit -m "Added new file indx,txt"
+
+$ git status
+$ git remote add origin https://github.com/SohamGokhale952/github-devops.git
+
+$ git push origin master
